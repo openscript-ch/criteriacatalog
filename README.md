@@ -8,6 +8,6 @@ Criteria catalog is an application helping to collaborate on examination criteri
 - Manage criteria
 - Manage users, roles and organizations
 - Version catalogs
-- Change control over criterias
-- Review and approve changes on criterias
+- Change control over criteria
+- Review and approve changes on criteria
 - Export catalogs to PDF
